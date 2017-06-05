@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+Όνομα: Σπυρίδων Γκέοργκ Κούστας Α.Μ.: Π2014027 Link Παιχνιδιού: https://spyroskoustas.github.io/pacman/index.html (Προσοχή: Υπάρχει περίπτωση να μην λειτουργεί σωστά σε μερικούς περιηγητές!)
 
-You can use the [editor on GitHub](https://github.com/SpyrosKoustas/SpyrosKoustas.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+##1ο Παραδοτέο
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Επέλεξα την εργασία pacman
 
-### Markdown
+##2ο Παραδοτέο
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Έγιναν αλλαγές στη πιστα, στο χαρακτήρα και στα αντικειμενα με τα οποια αλληλεπιδρα ο παικτης Τα προγράμματα που χρησιμοποιήθηκαν είναι το: Tiled το Gimp και οι φωτογραφίες πάρθηκαν απο το Google Άλλαξε η πίστα, από την πίστα του pacman έγινε μια πίστα για αυτοκίνητα. Ο χαρακτήρας είναι ένα αμάξι το οποίο εκτός από τις κουκίδες μαζεύει και βενζίνη.
 
-```markdown
-Syntax highlighted code block
+Ο σύνδεσμος για το παιχνδι: https://spyroskoustas.github.io/pacman/index.html
 
-# Header 1
-## Header 2
-### Header 3
+##3ο Παραδοτέο
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SpyrosKoustas/SpyrosKoustas.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Στο τρίτο παραδοτέο έγινε προσθήκη λειτουργικότητας. -Προστέθηκαν ήχοι τόσο στο background του παιχνιδιού όσο και στην αλληλεπίδραση με τα εικονίδια της βενζίνης. -Προστέθηκε σκορ στο πάνω μέρος του παιχνιδιού, ζωές, αλλά και ένδειξη βενζίνης. Το σκορ αυξάνεται ανάλογα με το πόσες κουκίδες έχει μαζέψει ο παίκτης, επίσης η βενζίνη μειώνεται ανάλογα με τις κουκίδες που μαζεύει ο παίκτης και αυξάνεται με τα δοχεία που υπάρχουν στην πίστα. Ο παίκτης χάνει μια απο τις τρείς ζωές όταν ξεμένει απο βενζίνει και δεν έχει προλάβει να μαζεψει όλες τις κουκίδες. Αν χαθούν και οι τρείς ζωές, τότε το παιχνίδι είναι χαμένο. -Προστέθηκε η τυχαία επανεμφάνιση κουκίδων στο παιχνίδι, οι οποίες εμφανίζονται για λίγα δευτερόλεπτα. Αυτές οι κουκίδες προσθέτουν μια δυσκολία καθώς εαν ο παίκτης δεν σκεφτεί στρατηγικά, οι πρόσθετες κουκίδες θα τον κάνουν να χάσει βενζίνη με αποτέλεσμα να μην καταφέρει να τερματίσει. Σωστός τρόπος αντιμετώπισης των τυχαίων κουκίδων είναι η αναμονή. Όταν εξαφανιστούν πάλι, ο χρήστης μπορεί να συνεχίσει άφοβα και να τερματίσει το παιχνίδι.
