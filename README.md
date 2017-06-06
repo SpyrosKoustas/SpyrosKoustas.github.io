@@ -5,8 +5,9 @@
 ## Στοιχεία φοιτητή
 Όνομα: Σπυρίδων Γκέοργκ Κούστας Α.Μ.: Π2014027 
 
-Link Παιχνιδιού: https://spyroskoustas.github.io/pacman/index.html 
-Link Προσωπικού Αποθετηρίου: https://github.com/SpyrosKoustas/pacman
+*[Link Παιχνιδιού:](https://spyroskoustas.github.io/pacman/index.html)
+
+*[Link Προσωπικού Αποθετηρίου:](https://github.com/SpyrosKoustas/pacman)
 
 (Προσοχή: Υπάρχει περίπτωση να μην λειτουργεί σωστά σε μερικούς περιηγητές!)
 
