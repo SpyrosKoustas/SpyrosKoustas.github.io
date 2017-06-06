@@ -13,6 +13,12 @@
 
 * [Link Αρχικού Παιχνιδιού - github.com/ioniodi/pacman](https://github.com/ioniodi/pacman)
 
+Τα αρχεία που αλλάχθηκαν - προστέθηκαν είναι τα εξής:
+
+* [Το κεντρικό αρχείο που περιέχει τον κώδικα του παιχνιδιού - index.html](https://github.com/SpyrosKoustas/pacman/blob/master/index.html)
+
+* [Τα αρχείο εικόνων και ήχων που προστέθηκαν στο φάκελο Assets](https://github.com/SpyrosKoustas/pacman/tree/master/assets)
+
 
 ## 1ο Παραδοτέο
 
