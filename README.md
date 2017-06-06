@@ -22,7 +22,7 @@
 
 Έγιναν αλλαγές στη πιστα, στο χαρακτήρα και στα αντικειμενα με τα οποια αλληλεπιδρα ο παικτης Τα προγράμματα που χρησιμοποιήθηκαν είναι το: Tiled το Gimp και οι φωτογραφίες πάρθηκαν απο το Google Άλλαξε η πίστα, από την πίστα του pacman έγινε μια πίστα για αυτοκίνητα. Ο χαρακτήρας είναι ένα αμάξι το οποίο εκτός από τις κουκίδες μαζεύει και βενζίνη.
 
-* [Ο σύνδεσμος για το παιχνδι: spyroskoustas.github.io/pacman/index.html](https://spyroskoustas.github.io/pacman/index.html)
+* [Ο σύνδεσμος για το παιχνδι - spyroskoustas.github.io/pacman/index.html](https://spyroskoustas.github.io/pacman/index.html)
 
 ## 3ο Παραδοτέο
 
