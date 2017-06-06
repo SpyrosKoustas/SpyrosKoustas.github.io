@@ -5,13 +5,13 @@
 ## Στοιχεία φοιτητή
 Όνομα: Σπυρίδων Γκέοργκ Κούστας Α.Μ.: Π2014027 
 
-* [Link Παιχνιδιού: spyroskoustas.github.io/pacman/index.html](https://spyroskoustas.github.io/pacman/index.html)
+* [Link Παιχνιδιού - spyroskoustas.github.io/pacman/index.html](https://spyroskoustas.github.io/pacman/index.html)
 
 (Προσοχή: Υπάρχει περίπτωση να μην λειτουργεί σωστά σε μερικούς περιηγητές!)
 
-* [Link Προσωπικού Αποθετηρίου: github.com/SpyrosKoustas/pacman](https://github.com/SpyrosKoustas/pacman)
+* [Link Προσωπικού Αποθετηρίου - github.com/SpyrosKoustas/pacman](https://github.com/SpyrosKoustas/pacman)
 
-* [Link Αρχικού Παιχνιδιού: github.com/ioniodi/pacman](https://github.com/ioniodi/pacman)
+* [Link Αρχικού Παιχνιδιού - github.com/ioniodi/pacman](https://github.com/ioniodi/pacman)
 
 
 ## 1ο Παραδοτέο
@@ -28,8 +28,9 @@
 
 Στο τρίτο παραδοτέο έγινε προσθήκη λειτουργικότητας. -Προστέθηκαν ήχοι τόσο στο background του παιχνιδιού όσο και στην αλληλεπίδραση με τα εικονίδια της βενζίνης. -Προστέθηκε σκορ στο πάνω μέρος του παιχνιδιού, ζωές, αλλά και ένδειξη βενζίνης. Το σκορ αυξάνεται ανάλογα με το πόσες κουκίδες έχει μαζέψει ο παίκτης, επίσης η βενζίνη μειώνεται ανάλογα με τις κουκίδες που μαζεύει ο παίκτης και αυξάνεται με τα δοχεία που υπάρχουν στην πίστα. Ο παίκτης χάνει μια απο τις τρείς ζωές όταν ξεμένει απο βενζίνει και δεν έχει προλάβει να μαζεψει όλες τις κουκίδες. Αν χαθούν και οι τρείς ζωές, τότε το παιχνίδι είναι χαμένο. -Προστέθηκε η τυχαία επανεμφάνιση κουκίδων στο παιχνίδι, οι οποίες εμφανίζονται για λίγα δευτερόλεπτα. Αυτές οι κουκίδες προσθέτουν μια δυσκολία καθώς εαν ο παίκτης δεν σκεφτεί στρατηγικά, οι πρόσθετες κουκίδες θα τον κάνουν να χάσει βενζίνη με αποτέλεσμα να μην καταφέρει να τερματίσει. Σωστός τρόπος αντιμετώπισης των τυχαίων κουκίδων είναι η αναμονή. Όταν εξαφανιστούν πάλι, ο χρήστης μπορεί να συνεχίσει άφοβα και να τερματίσει το παιχνίδι.
 
-* [Πηγή τρααγουδιού: www.youtube.com/watch?v=dGrea3c8YEg](https://www.youtube.com/watch?v=dGrea3c8YEg)
-* [Πηγή ήχου: www.youtube.com/watch?v=6G-k4zxou7Y](https://www.youtube.com/watch?v=6G-k4zxou7Y)
+* [Πηγή τρααγουδιού - www.youtube.com/watch?v=dGrea3c8YEg](https://www.youtube.com/watch?v=dGrea3c8YEg)
+
+* [Πηγή ήχου - www.youtube.com/watch?v=6G-k4zxou7Y](https://www.youtube.com/watch?v=6G-k4zxou7Y)
 
 ## 4ο Παραδοτέο
 
