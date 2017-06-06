@@ -6,6 +6,7 @@
 Όνομα: Σπυρίδων Γκέοργκ Κούστας Α.Μ.: Π2014027 
 
 * [Link Παιχνιδιού: spyroskoustas.github.io/pacman/index.html](https://spyroskoustas.github.io/pacman/index.html)
+
 (Προσοχή: Υπάρχει περίπτωση να μην λειτουργεί σωστά σε μερικούς περιηγητές!)
 
 * [Link Προσωπικού Αποθετηρίου: github.com/SpyrosKoustas/pacman](https://github.com/SpyrosKoustas/pacman)
