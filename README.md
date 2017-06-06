@@ -39,6 +39,18 @@
 
 Ο παίκτης χάνει ζωή εαν ξεμείνει από βενζίνη ή εαν τον πιάσει (συγκρουστεί) αστυνομικό αυτοκίνητο. Εαν ένας παίκτης χάσει και τις τρεις ζωές, χάνει το παιχνίδι. Το παιχνίδι κερδίζεται εαν το παίκτης μαζέψει όλες τις κουκίδες στην πίστα.
 
+### Ενδεικτική Οθόνη 1
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SpyrosKoustas/SpyrosKoustas.github.io/master/02.PNG">
+</p>
+
+### Ενδεικτική Οθόνη 2
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SpyrosKoustas/SpyrosKoustas.github.io/master/01.PNG">
+</p>
+
 Τα προγράμματα που χρησιμοποιήθηκαν είναι τα εξής:
 
 Για την επεξεργασία της πίστας
